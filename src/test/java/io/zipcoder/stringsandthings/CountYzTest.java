@@ -8,7 +8,7 @@ import org.junit.Test;
 /**
  * @author leon on 29/01/2019.
  */
-public class CountYZTest {
+public class CountYzTest {
 
     private StringsAndThings stringsAndThings;
 
