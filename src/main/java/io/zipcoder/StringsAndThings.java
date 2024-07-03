@@ -63,9 +63,7 @@ public class StringsAndThings {
 //                notCount++;
 //            }
 //        }
-//        boolean isEqual = isCount == notCount;
-//
-//        return isEqual;
+//        return isCount == notCount;
 
         Pattern p = Pattern.compile("is");
         Matcher m = p.matcher(input);
